@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity
             switch (item.getItemId()) {
                 case R.id.navigation_home:
                     switchToActivity("home","com.taobao.firstbundle.FirstBundleActivity");
-                    Toast.makeText(RuntimeVariables.androidApplication,"on click,Test a zujian",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(RuntimeVariables.androidApplication,"on click,modify a code",Toast.LENGTH_SHORT).show();
                     return true;
                 case R.id.navigation_dashboard:
                     switchToActivity("second","com.taobao.secondbundle.SecondBundleActivity");
