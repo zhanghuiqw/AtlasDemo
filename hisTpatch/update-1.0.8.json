@@ -1,0 +1,23 @@
+{
+	"baseVersion":"1.0.8",
+	"updateBundles":[
+		{
+			"dependency":[
+				"com.taobao.publicBundle"
+			],
+			"isMainDex":false,
+			"name":"com.taobao.firstbundle",
+			"srcUnitTag":"3qjuf9l68vlox",
+			"unitTag":"1oq7twrng0bgq",
+			"version":"1.0.4@1.0.7.1"
+		},
+		{
+			"isMainDex":true,
+			"name":"com.taobao.maindex",
+			"srcUnitTag":"hkb4hs9t861z",
+			"unitTag":"hkb4hs9t861z",
+			"version":"1.0.4@1.0.9"
+		}
+	],
+	"updateVersion":"1.0.9"
+}
